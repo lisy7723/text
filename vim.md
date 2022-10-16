@@ -77,4 +77,4 @@ backspace`X`
 
 
 
-`vim ~/.vimrc`
+`vim ~/.vimrc`编辑配置文件
